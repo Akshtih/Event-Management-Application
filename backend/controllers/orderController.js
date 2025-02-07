@@ -8,12 +8,12 @@ const stripe = new Stripe(process.env.STRIPE_SECRET_KEY)
 // placing user order from frontend
 const placeOrder = async (req, res) => {
 
-    const frontend_url = "http://localhost:5174https://velvety-cannoli-7364ff.netlify.app/"
+    const frontend_url = "https://velvety-cannoli-7364ff.netlify.app/"
 
     try {
         const newOrder = new orderModel({
             userId: req.body.userId,
-            items: req.body.items,
+            items: req.body.items,S
             amount: req.body.amount,
             address: req.body.address,
         })
