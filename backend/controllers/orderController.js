@@ -13,7 +13,7 @@ const placeOrder = async (req, res) => {
     try {
         const newOrder = new orderModel({
             userId: req.body.userId,
-            items: req.body.items,S
+            items: req.body.items,
             amount: req.body.amount,
             address: req.body.address,
         })
