@@ -48,7 +48,7 @@ Ensure you have the following installed:
 
 ### 📦 Clone the Repository
 ```sh
-git clone https://github.com/akshtih/evnto.git
+git clone https://github.com/Akshtih/Event-Management-Application.git
 cd evnto
 ```
 
@@ -140,8 +140,8 @@ This project is licensed under the MIT License.
 ## 📬 Contact
 
 For any queries, feel free to reach out:
-- **Email:** your-email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Email:** akshithsai2006@gmail.com
+- **GitHub:** [akshtih](https://github.com/akshtih)
 
 ---
 
