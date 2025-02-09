@@ -48,7 +48,7 @@ Ensure you have the following installed:
 
 ### 📦 Clone the Repository
 ```sh
-git clone https://github.com/yourusername/evnto.git
+git clone https://github.com/akshtih/evnto.git
 cd evnto
 ```
 
@@ -61,14 +61,14 @@ npm start
 
 ### 🌐 Frontend (Users) Setup
 ```sh
-cd frontend-user
+cd frontend
 npm install
 npm start
 ```
 
 ### 🛠️ Frontend (Admin) Setup
 ```sh
-cd frontend-admin
+cd admin
 npm install
 npm start
 ```
@@ -90,8 +90,8 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 ## 🔗 API Endpoints
 
 ### 📌 Authentication
-- `POST /api/auth/register` - Register a new user.
-- `POST /api/auth/login` - User login.
+- `POST /api/user/register` - Register a new user.
+- `POST /api/user/login` - User login.
 
 ### 🎟️ Events
 - `POST /api/event/add` - Add a new event.
@@ -101,14 +101,14 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 ### 🛒 Cart
 - `POST /api/cart/add` - Add an item to the cart.
 - `POST /api/cart/remove` - Remove an item from the cart.
-- `GET /api/cart` - Get cart details.
+- `GET /api/get` - Get cart details.
 
 ### 🛍️ Orders
 - `POST /api/order/place` - Place an order.
 - `POST /api/order/verify` - Verify payment.
-- `GET /api/order/user-orders` - Get user orders.
-- `GET /api/order/admin-list` - List all orders (Admin).
-- `POST /api/order/update-status` - Update order status.
+- `GET /api/order/userorders` - Get user orders.
+- `GET /api/order/list` - List all orders (Admin).
+- `POST /api/order/status` - Update order status.
 
 ---
 
