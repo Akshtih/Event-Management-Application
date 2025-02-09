@@ -116,16 +116,19 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 
 ## User Interface  
 
-| Screenshot 1 | Screenshot 2 | Screenshot 3 |
-|-------------|-------------|-------------|
-| ![Image](https://github.com/user-attachments/assets/fcc570c4-4a6b-4341-a2d2-78ce2c82ddf2) | ![Image](https://github.com/user-attachments/assets/535ea556-bc69-479e-90cb-2804ae4d94fe) | ![Image](https://github.com/user-attachments/assets/1b899cfe-e9e0-4fdf-9888-9d301b70c31f) |
-| ![Image](https://github.com/user-attachments/assets/76cb55d6-c7f2-490f-8569-aa914e7550f1) | ![Image](https://github.com/user-attachments/assets/66cfa046-7ce7-4552-9221-42a5fe7fc8b8) | ![Image](https://github.com/user-attachments/assets/936d1a06-6e2c-47da-b2d8-41f0d86c7592) |
+| Homepage | Event Listings | Event Details |
+|----------|---------------|--------------|
+| ![Homepage](https://github.com/user-attachments/assets/fcc570c4-4a6b-4341-a2d2-78ce2c82ddf2) | ![Event Listings](https://github.com/user-attachments/assets/535ea556-bc69-479e-90cb-2804ae4d94fe) | ![Event Details](https://github.com/user-attachments/assets/1b899cfe-e9e0-4fdf-9888-9d301b70c31f) |
+
+| User Profile | Cart Page | Checkout Page |
+|-------------|-----------|--------------|
+| ![User Profile](https://github.com/user-attachments/assets/76cb55d6-c7f2-490f-8569-aa914e7550f1) | ![Cart Page](https://github.com/user-attachments/assets/66cfa046-7ce7-4552-9221-42a5fe7fc8b8) | ![Checkout Page](https://github.com/user-attachments/assets/936d1a06-6e2c-47da-b2d8-41f0d86c7592) |
 
 ## Admin Dashboard  
 
-| Dashboard Screenshot 1 | Dashboard Screenshot 2 | Dashboard Screenshot 3 |
-|-----------------------|-----------------------|-----------------------|
-| ![Image](https://github.com/user-attachments/assets/40635afc-ced4-4b6b-83ec-d1a48bde9a06) | ![Image](https://github.com/user-attachments/assets/f2297e2c-a012-4652-988b-301dbbb2f7ca) | ![Image](https://github.com/user-attachments/assets/a81dc83e-3c56-4aa1-a80e-262a187982e5) |
+| Dashboard Home | Manage Events | View Orders |
+|---------------|--------------|------------|
+| ![Dashboard Home](https://github.com/user-attachments/assets/40635afc-ced4-4b6b-83ec-d1a48bde9a06) | ![Manage Events](https://github.com/user-attachments/assets/f2297e2c-a012-4652-988b-301dbbb2f7ca) | ![View Orders](https://github.com/user-attachments/assets/a81dc83e-3c56-4aa1-a80e-262a187982e5) |
 
 
 ---
