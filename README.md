@@ -38,6 +38,14 @@
 
 ---
 
+## 🔗 Deployed Links
+
+- 🌐 **Frontend (Users):** [Evnto User Panel](https://velvety-cannoli-7364ff.netlify.app) *(Deployed on Netlify)*
+- 🛠️ **Frontend (Admin):** [Evnto Admin Panel](https://clinquant-druid-14d716.netlify.app/orders) *(Deployed on Netlify)*
+- ⚙️ **Backend:** [Evnto API](https://evnto-backend.onrender.com/) *(Deployed on Render)*
+
+---
+
 ## 🔧 Installation & Setup
 
 ### 🖥️ Prerequisites
@@ -148,7 +156,6 @@ Contributions are welcome! Follow these steps:
 3. Commit changes (`git commit -m "Add feature"`).
 4. Push to the branch (`git push origin feature-name`).
 5. Open a Pull Request.
-
 
 ---
 
