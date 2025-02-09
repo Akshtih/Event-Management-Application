@@ -116,7 +116,7 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 
 | User Interface | Admin Dashboard |
 |---------------|----------------|
-| ![User UI](https://via.placeholder.com/400) | ![Admin UI](https://via.placeholder.com/400) |
+|![Image](https://github.com/user-attachments/assets/fcc570c4-4a6b-4341-a2d2-78ce2c82ddf2) | ![Admin UI](https://via.placeholder.com/400) |
 
 ---
 
